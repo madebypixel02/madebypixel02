@@ -7,6 +7,12 @@
 * Also studying as student in 42 Madrid Fundación Telefónica
 * Linux Enthusiast (I use Arch BTW)
 
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
 ## Some Stats
 
 * User Stats
@@ -14,18 +20,13 @@
 <p align="center">
   <a href="https://github.com/madebypixel02">
     <img src="https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebypixel02&theme=blueberry">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/madebypixel02">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/madebypixel02">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
   </a>
 </p>
 
