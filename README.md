@@ -5,7 +5,7 @@
 
 * Studying: Data Science & Engineering (Uc3m)
 * Also studying as student in 42 Madrid Fundación Telefónica
-* Linux Enthusiast (I use Arch BTW)
+* Linux Enthusiast (I use Fedora Silverblue, Debian and Arch BTW)
 
 <p align="center">
   <a href="https://github.com/madebypixel02">
