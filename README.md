@@ -3,7 +3,7 @@
 
 ## Hi There 👋
 
-* Studying: Data Science & Engineering (Uc3m)
+* Studying: Software Application Techniques (UOC)
 * Also studying as student in 42 Madrid Fundación Telefónica
 * Linux Enthusiast (I use Fedora Silverblue, Debian and Arch BTW)
 
