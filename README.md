@@ -3,7 +3,7 @@
 
 ## Hi There 👋
 
-* Studying: Software Application Techniques (UOC)
+* Studying: Techniques for Software Application Development (UOC)
 * Also studying as student in 42 Madrid Fundación Telefónica
 * Studied Data Science & Engineering (Uc3m)
 * Linux Enthusiast (I use Arch BTW)
