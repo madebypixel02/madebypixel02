@@ -8,16 +8,6 @@
 * Studied Data Science & Engineering (Uc3m)
 * Linux Enthusiast (I use Arch BTW)
 
-<p align="center">
-  <a href="https://github.com/madebypixel02">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
-    <img alt="Platane's snk in light and dark mode." src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake-dark.svg">
-    </picture>
-  </a>
-</p>
-
 ## Some Stats
 
 * User Stats
@@ -42,12 +32,6 @@
     <img src="https://badgen.net/badge/Born2Code/aperez-b/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </p>
-
-<!--
-<p align="center">
-  <img src=https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aperez-b />
-</p>
--->
 
 <p align="center">
   <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
