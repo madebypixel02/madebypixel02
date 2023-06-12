@@ -1,3 +1,24 @@
+<!-- *********************************************************************** -->
+<!--                                                                         -->
+<!--                                                        _nnnn_           -->
+<!--                                                       dGGGGMMb          -->
+<!--                                                      @p~qp~~qMb         -->
+<!--                                                      M|@||@) M|         -->
+<!--                                                      @,----.JM|         -->
+<!--                                                     JS^\__/  qKL        -->
+<!--                                                    dZP        qKRb      -->
+<!--                                                   dZP          qKKb     -->
+<!--                                                  fZP            SMMb    -->
+<!--                                                  HZM            MMMM    -->
+<!-- README.md                                        FqM            MMMM    -->
+<!--                                                __| `.        |\dS'qML   -->
+<!-- By: madebypixel02 <madebypixel02@proton.me>    |    `.       | `' \Zq   -->
+<!--                                                _)      .___.,|     .'   -->
+<!-- Created: 2023/06/12 21:19:20 by madebypixel02  \___   )MMMMMP|   .'     -->
+<!-- Updated: 2023/06/12 21:19:57 by madebypixel02      `-'       `--'       -->
+<!--                                                                         -->
+<!-- *********************************************************************** -->
+
 # madebypixel02 (aperez-b) :smile:
 
 
@@ -24,27 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry">
   </a>
 </div>
-
-* 42 Cursus Stats
-
-<div align="center">
-  <a href="https://profile.intra.42.fr/users/aperez-b">
-    <img src="https://badgen.net/badge/Born2Code/aperez-b/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
-    <img src="https://badge42.vercel.app/api/v2/cl1kyexqa001109mf3u4zsrcw/stats?cursusId=21&coalitionId=65">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark">
-  </a>
-</div>
-
 <!--
 **madebypixel02/madebypixel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
