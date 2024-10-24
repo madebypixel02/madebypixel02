@@ -15,7 +15,7 @@
 <!-- By: madebypixel02 <madebypixel02@proton.me>    |    `.       | `' \Zq   -->
 <!--                                                _)      .___.,|     .'   -->
 <!-- Created: 2023/06/12 21:19:20 by madebypixel02  \___   )MMMMMP|   .'     -->
-<!-- Updated: 2023/06/12 21:19:57 by madebypixel02      `-'       `--'       -->
+<!-- Updated: 2024/10/25 00:21:08 by madebypixel02      `-'       `--'       -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -24,8 +24,9 @@
 
 ## Hi There 👋
 
-* Studying: Techniques for Software Application Development (UOC)
-* Also studying as student in 42 Madrid Fundación Telefónica
+* Working at Telefónica de España S.A. (AI Center of Excellence)
+* Studying Techniques for Software Application Development (UOC)
+* Former 42 Madrid Fundación Telefónica student
 * Studied Data Science & Engineering (Uc3m)
 * Linux Enthusiast (I use Arch BTW)
 
