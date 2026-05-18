@@ -36,14 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/madebypixel02">
-    <img src="https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebypixel02&theme=blueberry">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/madebypixel02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry">
   </a>
 </div>
 
