@@ -19,16 +19,16 @@
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
-# madebypixel02 (aperez-b) :smile:
+# madebypixel02
 
 
-## Hi There 👋
+## Hi There
 
 * Working at Telefónica de España S.A. (AI Center of Excellence)
 * Studying Techniques for Software Application Development (UOC)
 * Former 42 Madrid Fundación Telefónica student
 * Studied Data Science & Engineering (Uc3m)
-* Linux Enthusiast (I use Arch BTW)
+* Linux Enthusiast
 
 ## Some Stats
 
@@ -46,6 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry">
   </a>
 </div>
+
 <!--
 **madebypixel02/madebypixel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
